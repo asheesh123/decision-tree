@@ -1,0 +1,15 @@
+RID,age,income,student,credit_rating
+1,youth,high,no,fair
+2,youth,high,no,excellent
+3,middle_aged,high,no,fair
+4,senior,medium,no,fair
+5,senior,low,yes,fair
+6,senior,low,yes,excellent
+7,middle_aged,low,yes,excellent
+8,youth,medium,no,fair
+9,youth,low,yes,fair
+10,senior,medium,yes,fair
+11,youth,medium,yes,excellent
+12,middle_aged,medium,no,excellent
+13,middle_aged,high,yes,fair
+14,senior,medium,no,excellent
